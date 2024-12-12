@@ -1,7 +1,7 @@
 # Facciamolo
+It's me, Terry! 
 
-
-
-It's me, Terry!
-![alt ciao](./io2.png)
+<p align="center">
+    <img src="../io2.png" width="500" height="auto">
+</p>
 
